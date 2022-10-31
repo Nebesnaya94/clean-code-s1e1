@@ -18,8 +18,10 @@
 }
 
 @media (max-width:768px) {
+
 .preview { text-align: center;
 }
+
 }
 .todo-section {
     display: block;
